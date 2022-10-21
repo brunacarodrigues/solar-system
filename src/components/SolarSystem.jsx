@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// import planets from '../data/planets';
 import Title from './Title';
 
 class SolarSystem extends Component {

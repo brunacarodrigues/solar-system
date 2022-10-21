@@ -9,7 +9,7 @@ class App extends Component {
       <div>
         <Header />
         <SolarSystem />
-        <Title />
+        <Title headline="Planetas" />
       </div>
     );
   }
